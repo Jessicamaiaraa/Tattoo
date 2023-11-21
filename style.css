@@ -1,0 +1,58 @@
+
+body {
+   background-image: url(imagens/pexels-anderson-cavalera-3511738.jpg);
+   background-size: 1520px;
+   background-repeat: no-repeat;
+   
+}
+
+h1 {
+    background: rgb(191,0,0);
+    background: linear-gradient(99deg, rgba(191,0,0,1) -2%, rgba(108,36,36,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 164px;
+    margin: 0px;
+    margin-right: 353px;
+    text-align: center;
+    
+   
+}
+
+#tattoo {
+   text-align: right;
+   margin-right: 283px;
+   
+}
+
+
+
+nav {
+   margin: -79px auto;
+   padding-left: 20px;
+   
+   
+
+}
+
+nav a {
+   color: white;
+   padding-left: 63px;
+   font-size: 18px;
+   text-decoration: none;
+   
+}
+
+   
+a:hover {
+
+   color: rgb(172, 71, 71)
+}
+
+p {
+   text-align: right;
+}
+ 
+
+   
+   
